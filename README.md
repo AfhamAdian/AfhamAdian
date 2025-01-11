@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hi there 👋
-I am Md. Afham Adian, an entusiast learner and optimist dreamer.
+I am Md. Afham Adian, entusiast learner and a optimist dreamer.
 
 
   ![](https://komarev.com/ghpvc/?username=AfhamAdian&color=green)
@@ -65,7 +65,9 @@ I am Md. Afham Adian, an entusiast learner and optimist dreamer.
 -->
 ## Github Overview
 
+<!--
 <img align="left" alt="AfhamAdian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AfhamAdian&show_icons=true" />   &nbsp;
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfhamAdian&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br />
