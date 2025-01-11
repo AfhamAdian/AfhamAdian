@@ -1,4 +1,4 @@
-i’m batman
+<h1 align="center">~ Hello there! I'm Adian ~</h1>
 
 
   ![](https://komarev.com/ghpvc/?username=AfhamAdian&color=green)
@@ -7,8 +7,6 @@ i’m batman
 AfhamAdian/AfhamAdian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">~ Hello there! I'm Tamim ~</h1>
-
 
 ### Hi there 👋
 
@@ -48,16 +46,16 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 
 -->
 ## My Tech! 
-- **Languages** - `C++` `Golang` `Java` `Javascript` `SQL` 
-- **Backend** - `Spring Boot` `Node.js` `Express.js`
+- **Languages** - `C++` `Java` `Python` `Javascript` `SQL` 
+- **Backend** - `Node.js` `Express.js` `FastAPI`
 - **Frontend** - `React`
 - **Database** - `PostgreSQL` `OracleDB` `MongoDB`
-- **Data Stores** - `Redis` `Kafka`
+- **Data Stores** - `Redis`
 - **Tools** - `Git` `Github workflow`
-- **Testing** - `JUnit5` `Mockito` `Gatling` `Testify` `Test Container`
-- **Infra** - `Docker` `Kubernetes` `Linux`
+- **Testing** - `Test Container`
+- **Infra** - `Docker` `Linux`
 - **Cloud** - `Azure Cloud Service`
-- **Productivity** - `Jira` `MS Powerpoint` `Adobe Photoshop`
+- **Productivity** - `MS Powerpoint` `Adobe Photoshop`
 
 ## Live Projects
 [![Algorithm Visualizer](https://img.shields.io/badge/-Algorithm%20Visualizer-0085C0?style=flat&logo=ripple)](https://tamimehsan.github.io/AlgorithmVisualizer/)
@@ -65,7 +63,7 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 
 ## Github Overview
 
-<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />   &nbsp;
+<img align="left" alt="AfhamAdian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AfhamAdian&show_icons=true" />   &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfhamAdian&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br />
