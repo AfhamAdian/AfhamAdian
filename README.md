@@ -1,7 +1,7 @@
+<!--
 <h1 align="center">~ Hello there! I'm Adian ~</h1>
+-->
 
-
-  ![](https://komarev.com/ghpvc/?username=AfhamAdian&color=green)
 
 <!---
 AfhamAdian/AfhamAdian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there 👋
 I am Md. Afham Adian, entusiast learner and optimist dreamer.
+  ![](https://komarev.com/ghpvc/?username=AfhamAdian&color=green)
 
 <!--
 ## Languages
@@ -55,10 +56,11 @@ I am Md. Afham Adian, entusiast learner and optimist dreamer.
 - **Cloud** - `Azure Cloud Service`
 - **Productivity** - `MS Powerpoint` `Adobe Photoshop`
 
+<!--
 ## Live Projects
 [![Algorithm Visualizer](https://img.shields.io/badge/-Algorithm%20Visualizer-0085C0?style=flat&logo=ripple)](https://tamimehsan.github.io/AlgorithmVisualizer/)
 [![Interview BD](https://img.shields.io/badge/-Interview%20BD-5672cd?style=flat)](https://tamimehsan.github.io/interview-questions-bangladesh/)
-
+-->
 ## Github Overview
 
 <img align="left" alt="AfhamAdian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AfhamAdian&show_icons=true" />   &nbsp;
