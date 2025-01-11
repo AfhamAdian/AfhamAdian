@@ -103,4 +103,6 @@ I am Md. Afham Adian, an entusiast learner and optimist dreamer.
 -->
 
 <!-- Place this tag where you want the button to render. -->
+<!--
 ⭐<a class="github-button" href="https://github.com/TamimEhsan/TamimEhsan" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star TamimEhsan/TamimEhsan on GitHub">Star this repository</a>
+-->
