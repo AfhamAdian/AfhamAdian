@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there 👋
 <!---I am Md. Afham Adian, passionate learner and a optimist dreamer.--->
- Curious little folk
+ A curious little folk
 
 
   ![](https://komarev.com/ghpvc/?username=AfhamAdian&color=green)
