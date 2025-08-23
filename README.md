@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 Curious little folk
 
 
-  ![2000](https://komarev.com/ghpvc/?username=AfhamAdian&color=green)
+  ![](https://komarev.com/ghpvc/?username=AfhamAdian&color=green)
 
 <!--
 ## Languages
