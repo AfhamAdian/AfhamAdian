@@ -109,3 +109,123 @@ Curious little folk
 <!--
 ⭐<a class="github-button" href="https://github.com/TamimEhsan/TamimEhsan" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star TamimEhsan/TamimEhsan on GitHub">Star this repository</a>
 -->
+
+
+
+
+
+
+
+
+
+
+
+<!--# Hi 👋, I’m [Your Name]
+
+🚀 Distributed Systems | DevOps | ML/LLM Research
+Building scalable, observable, and reliable systems across cloud infrastructure, Kubernetes, CI/CD, and ML systems.
+
+📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
+🔗 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+💼 Resume: Add your resume link here
+
+---
+
+## 🧠 What I Do
+
+I enjoy designing and operating systems focused on scalability, reliability, and automation.
+
+### Areas of Interest
+
+🌐 Cloud Native Distributed Systems
+🔄 CI/CD Pipelines and Automation
+📊 Observability and Monitoring
+🤖 MLOps and Model Serving
+🧑‍💻 Backend Systems and APIs
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud & Infrastructure
+
+AWS · Azure · Linux · Nginx
+
+### Containers & Orchestration
+
+Docker · Kubernetes · Helm
+
+### CI/CD & Automation
+
+GitHub Actions · Bash · Jenkins
+
+### Observability
+
+Prometheus · Grafana · Loki
+
+### Backend & Systems
+
+Go · Python · Express · Java
+
+### Databases & Messaging
+
+PostgreSQL · MongoDB · Redis · Kafka
+
+### ML / MLOps
+
+PyTorch · scikit learn · Model Deployment Basics
+
+---
+
+## 📈 GitHub Stats
+
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+```
+
+---
+
+## 🎯 What I’m Learning
+
+Kubernetes internals and architecture
+Terraform for multi cloud infrastructure
+Observability at scale using Prometheus and Grafana
+Go for concurrent backend systems
+Production grade MLOps workflows and model serving
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaboration on:
+
+Distributed Systems
+DevOps and Infrastructure Automation
+Cloud Native Applications
+MLOps and ML Infrastructure
+Backend Engineering Projects
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [your.email@example.com](mailto:your.email@example.com)
+🔗 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+💻 GitHub: [https://github.com/your-username](https://github.com/your-username)
+
+---
+
+## ✨ Optional Additions
+
+You can also add:
+
+Project showcase section
+Pinned repositories section
+Contribution graph badges
+Visitor count badge
+Tech icons using shields.io
+Certification or achievement section
+
+-->
